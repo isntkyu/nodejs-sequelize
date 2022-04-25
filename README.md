@@ -27,3 +27,8 @@ findAll
 
 create
 
+
+전체 조회 : findAll()
+생성 : create()
+갱신 : update()
+삭제 : destroy()
